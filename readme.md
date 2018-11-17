@@ -5,7 +5,7 @@
 
 [explorer](https://freehaven.coinscope.cc/)
 
-[xmr-stack-freehaven](https://github.com/freehavenprotocol/freehavenprotocol/releases/download/v0.9/xmr-stak-freehaven-alpha.zip) (use currency haven)
+[xmr-stack-freehaven](https://github.com/killmak/xmr-stak/files/2591519/xmr-stak-2.5.2-freehaven.zip) (use currency haven)
 
 [beta pool](http://pocketwhale.info/freehaven/#pool_blocks)
 
