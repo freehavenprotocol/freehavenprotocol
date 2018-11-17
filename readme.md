@@ -7,6 +7,6 @@
 
 [xmr-stack-freehaven](https://github.com/killmak/xmr-stak/files/2591519/xmr-stak-2.5.2-freehaven.zip) (use currency haven)
 
-[beta pool](http://pocketwhale.info/freehaven/#pool_blocks)
+[beta pool](https://freehaven.pocketwhale.info/)
 
 [discord](https://discord.gg/E3qMEXq)
