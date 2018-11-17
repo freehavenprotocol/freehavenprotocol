@@ -5,7 +5,7 @@
 
 [explorer](https://freehaven.coinscope.cc/)
 
-[xmr-stack-freehaven](hhttps://github.com/killmak/xmr-stak/releases)
+[xmr-stack-freehaven](https://github.com/killmak/xmr-stak/releases)
 
 [beta pool](https://freehaven.pocketwhale.info/)
 
